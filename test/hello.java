@@ -10,6 +10,7 @@ public class hello {
         System.out.println("hello");
         System.out.println("克隆修改");
         System.out.println("重新commit");
+        System.out.println("你好");
 
     }
 }
