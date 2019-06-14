@@ -1,4 +1,4 @@
-package it.heima.test;
+package test;
 
 public class hello {
     public static void main(String[] args) {
@@ -7,6 +7,7 @@ public class hello {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("克隆修改");
 
     }
 }
