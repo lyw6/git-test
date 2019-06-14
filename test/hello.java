@@ -7,7 +7,6 @@ public class hello {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("克隆修改");
 
     }
 }
