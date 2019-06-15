@@ -11,6 +11,7 @@ public class hello {
         System.out.println("重新commit");
         System.out.println("你好啊");
         System.out.println("bad");
+        System.out.println("good");
 
     }
 }
